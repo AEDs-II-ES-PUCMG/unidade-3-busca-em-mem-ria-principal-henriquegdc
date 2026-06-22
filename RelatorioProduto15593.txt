@@ -1,0 +1,625 @@
+==============================
+ID do pedido: 222
+Data do pedido: 22/06/2026
+Cliente do pedido: Lorena Teixeira Carvalho
+Pedido com 7 itens.
+Itens de pedido no pedido:
+PRODUTO: Clipe Amarelo
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 8,76
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Caneta marcador Azul profundo
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 8,33
+PRODUTO: Ficheiro Azul brasilis
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 5,04
+PRODUTO: Clipe Lilas
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 2,10
+PRODUTO: Papel colorido Vermelho escuro
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 6,53
+PRODUTO: Papel reciclado Caramelo
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 4,60
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 196,26
+==============================
+ID do pedido: 2714
+Data do pedido: 22/06/2026
+Cliente do pedido: Pedro Lima Santos
+Pedido com 7 itens.
+Itens de pedido no pedido:
+PRODUTO: Pasta de plastico Verde mar
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 4,83
+PRODUTO: Bloco com pauta Bordo
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 8,63
+PRODUTO: Bloco de notas Azul topazio
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 9,71
+PRODUTO: Post-its Lima
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 3,49
+PRODUTO: Lapis de cor Turquesa
+QUANTIDADE: 05
+PREÇO UNITÁRIO: R$ 2,63
+PRODUTO: Apagador Bordo
+QUANTIDADE: 05
+PREÇO UNITÁRIO: R$ 5,39
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 9,94
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 245,62
+==============================
+ID do pedido: 2889
+Data do pedido: 22/06/2026
+Cliente do pedido: Miguel Vieira Dias
+Pedido com 4 itens.
+Itens de pedido no pedido:
+PRODUTO: Regua Azul claro
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 8,96
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Cola Azul profundo
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 9,09
+PRODUTO: Cartucho de tinta Naval
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 5,40
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 211,90
+==============================
+ID do pedido: 3957
+Data do pedido: 22/06/2026
+Cliente do pedido: Maria Vieira Ribeiro
+Pedido com 7 itens.
+Itens de pedido no pedido:
+PRODUTO: Organizador Castanho
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 3,33
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Etiqueta grande Marfim
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 8,13
+PRODUTO: Papel colorido Lilas
+QUANTIDADE: 05
+PREÇO UNITÁRIO: R$ 8,68
+PRODUTO: Ficheiro Verde escuro
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 10,53
+PRODUTO: Apagador Turquesa clara
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 2,51
+PRODUTO: Peso de papel Urucum
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 6,72
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 135,53
+==============================
+ID do pedido: 4787
+Data do pedido: 22/06/2026
+Cliente do pedido: Isabella Monteiro Gomes
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Prancheta Branco fantasma
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 10,17
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Cola Azul celeste
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 7,81
+PRODUTO: Post-its Anil
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 6,26
+PRODUTO: Caneta marcador Branco
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 7,11
+PRODUTO: Caneta marcador Azul turquesa
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 9,68
+PRODUTO: Tachinha Rosa bebe
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 3,06
+PRODUTO: Transferidor Ametista
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 10,43
+
+Pedido pago parcelado.
+Valor total do pedido: R$ 405,67
+==============================
+ID do pedido: 5690
+Data do pedido: 22/06/2026
+Cliente do pedido: Pedro Monteiro Freitas
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Envelope Azul cadete
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 7,92
+PRODUTO: Lapis Violeta
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 6,22
+PRODUTO: Cartao de papel Rosa escuro
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 7,13
+PRODUTO: Bloco de notas Verde bandeira
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 8,41
+PRODUTO: Clipe Ametista
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 7,27
+PRODUTO: Cola Salmao escuro
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 8,18
+PRODUTO: Apontador Violeta claro
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 4,04
+
+Pedido pago parcelado.
+Valor total do pedido: R$ 282,21
+==============================
+ID do pedido: 6284
+Data do pedido: 22/06/2026
+Cliente do pedido: Heitor Teixeira Gomes
+Pedido com 7 itens.
+Itens de pedido no pedido:
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Papel para impressora Orquidea clara
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 7,75
+PRODUTO: Lapiseira Caramelo
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 3,26
+PRODUTO: Tesoura Azul anil
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 9,34
+PRODUTO: Liquido de correcao Orquidea escura
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 2,56
+PRODUTO: Caneta esferografica Neve
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 7,71
+PRODUTO: Protetor de folhas Preto
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 8,46
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 258,67
+==============================
+ID do pedido: 6858
+Data do pedido: 22/06/2026
+Cliente do pedido: Enzo Freitas Lima
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Apontador Azul cobalto
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 6,01
+PRODUTO: Pasta de papel Laranja claro
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 4,72
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Tesoura Salmao claro
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 5,85
+PRODUTO: Grampo Turquesa media
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 6,04
+PRODUTO: Bloco de notas Violeta
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 10,04
+PRODUTO: Caneta marcador Azul
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 10,64
+PRODUTO: Apagador Rosa choque
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 2,43
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 337,41
+==============================
+ID do pedido: 7534
+Data do pedido: 22/06/2026
+Cliente do pedido: Amanda Mendes Rodrigues
+Pedido com 1 itens.
+Itens de pedido no pedido:
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 9,94
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 67,61
+==============================
+ID do pedido: 8754
+Data do pedido: 22/06/2026
+Cliente do pedido: Pedro Nascimento Lima
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Calculadora Linho
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 11,58
+PRODUTO: Apontador Salmao
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 8,85
+PRODUTO: Liquido de correcao Cinza ardosia
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 3,83
+PRODUTO: Alfinete Verde menta
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 2,56
+PRODUTO: Cola Cinza claro
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 9,49
+PRODUTO: Organizador Azul profundo
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 7,27
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Cartao de papel Acafrao
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 5,88
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 373,86
+==============================
+ID do pedido: 10147
+Data do pedido: 22/06/2026
+Cliente do pedido: Caio Costa Pereira
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Regua Violeta claro
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 8,89
+PRODUTO: Prancheta Azul bebe
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 2,58
+PRODUTO: Liquido de correcao Tomate
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 6,14
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Alfinete Amarelo escuro
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 8,73
+PRODUTO: Grampo Roxo
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 10,33
+PRODUTO: Fita adesiva Marfim
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 5,68
+PRODUTO: Cola em bastao Branco antigo
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 2,59
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 335,78
+==============================
+ID do pedido: 10763
+Data do pedido: 22/06/2026
+Cliente do pedido: Bernardo Araujo Almeida
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 05
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Fita de correcao Branco
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 4,37
+PRODUTO: Papel cartao Sepia
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 5,82
+PRODUTO: Tesoura Mostarda
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 11,14
+PRODUTO: Compasso Azul topazio
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 8,91
+PRODUTO: Compasso Borgonha
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 2,91
+PRODUTO: Alfinete Verde lima
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 2,81
+PRODUTO: Tesoura Oliva parda
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 7,07
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 181,72
+==============================
+ID do pedido: 11097
+Data do pedido: 22/06/2026
+Cliente do pedido: Alice Almeida Costa
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Envelope Marrom rosado
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 8,65
+PRODUTO: Pasta de plastico Ambar
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 5,16
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Clipe Ocre
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 6,28
+PRODUTO: Cola em bastao Orquidea
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 4,37
+PRODUTO: Bloco de notas Dourado
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 5,65
+PRODUTO: Cola Bronze
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 11,75
+PRODUTO: Fita de correcao Laranja escuro
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 11,22
+
+Pedido pago parcelado.
+Valor total do pedido: R$ 191,66
+==============================
+ID do pedido: 12538
+Data do pedido: 22/06/2026
+Cliente do pedido: Guilherme Rodrigues Freitas
+Pedido com 7 itens.
+Itens de pedido no pedido:
+PRODUTO: Prancheta Branco
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 6,68
+PRODUTO: Bloco de notas Jambo
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 6,26
+PRODUTO: Protetor de folhas Orquidea escura
+QUANTIDADE: 05
+PREÇO UNITÁRIO: R$ 11,50
+PRODUTO: Lapis Bronze
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 5,75
+PRODUTO: Caneta marcador Mostarda
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 6,99
+PRODUTO: Organizador Escarlate
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 7,99
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 9,94
+
+Pedido pago parcelado.
+Valor total do pedido: R$ 295,01
+==============================
+ID do pedido: 13832
+Data do pedido: 22/06/2026
+Cliente do pedido: Guilherme Almeida Barbosa
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Apagador Azul brasilis
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 8,27
+PRODUTO: Papel cartao Verde escuro
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 8,99
+PRODUTO: Calculadora Carmim
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 5,84
+PRODUTO: Liquido de correcao Linho
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 6,86
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Alfinete Rosa brilhante
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 4,56
+PRODUTO: Tesoura Oliva parda
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 7,07
+PRODUTO: Peso de papel Ameixa
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 9,20
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 351,90
+==============================
+ID do pedido: 14152
+Data do pedido: 22/06/2026
+Cliente do pedido: Caio Castro Alves
+Pedido com 7 itens.
+Itens de pedido no pedido:
+PRODUTO: Alfinete Amendoa
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 3,83
+PRODUTO: Organizador Rosa claro
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 2,51
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Papel cartao Verde mar
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 8,53
+PRODUTO: Prancheta Tomate
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 9,88
+PRODUTO: Liquido de correcao Escarlate
+QUANTIDADE: 10
+PREÇO UNITÁRIO: R$ 11,27
+PRODUTO: Pasta de plastico Azul marinho
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 7,33
+
+Pedido pago parcelado.
+Valor total do pedido: R$ 380,20
+==============================
+ID do pedido: 15213
+Data do pedido: 22/06/2026
+Cliente do pedido: Patricia Castro Silva
+Pedido com 7 itens.
+Itens de pedido no pedido:
+PRODUTO: Lapis de cor Azul ardosia
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 10,23
+PRODUTO: Liquido de correcao Rosa
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 2,51
+PRODUTO: Protetor de folhas Verde bandeira
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 9,80
+PRODUTO: Cartucho de tinta Azul anil
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 5,92
+PRODUTO: Furador Dourado
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 9,06
+PRODUTO: Liquido de correcao Ocre
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 2,89
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 9,94
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 232,16
+==============================
+ID do pedido: 15358
+Data do pedido: 22/06/2026
+Cliente do pedido: Patricia Oliveira Costa
+Pedido com 5 itens.
+Itens de pedido no pedido:
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Papel para impressora Azul petroleo
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 12,12
+PRODUTO: Lapis Verde grama
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 8,95
+PRODUTO: Grampo Castanho
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 10,20
+PRODUTO: Cola Chocolate
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 4,98
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 192,13
+==============================
+ID do pedido: 16771
+Data do pedido: 22/06/2026
+Cliente do pedido: Fernanda Araujo Silva
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Cola em bastao Rosa claro
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 10,74
+PRODUTO: Ficheiro Lima
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 6,86
+PRODUTO: Cartao de papel Rosa profundo
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 8,45
+PRODUTO: Elastico Amarelo canario
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 9,09
+PRODUTO: Grampeador Castanho
+QUANTIDADE: 06
+PREÇO UNITÁRIO: R$ 4,90
+PRODUTO: Clipe Azul cobalto
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 6,78
+PRODUTO: Lapis Verde pastel
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 5,97
+
+Pedido pago à vista. Percentual de desconto: 15,00%
+Valor total do pedido: R$ 300,66
+==============================
+ID do pedido: 17387
+Data do pedido: 22/06/2026
+Cliente do pedido: Isabella Lima Freitas
+Pedido com 6 itens.
+Itens de pedido no pedido:
+PRODUTO: Apontador Magenta
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 5,09
+PRODUTO: Caneta esferografica Branco fantasma
+QUANTIDADE: 05
+PREÇO UNITÁRIO: R$ 9,23
+PRODUTO: Pasta de plastico Coral claro
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 6,05
+PRODUTO: Caneta-tinteiro Caramelo
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 9,30
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 02
+PREÇO UNITÁRIO: R$ 9,94
+PRODUTO: Elastico Turquesa escura
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 7,57
+
+Pedido pago parcelado.
+Valor total do pedido: R$ 190,22
+==============================
+ID do pedido: 21020
+Data do pedido: 22/06/2026
+Cliente do pedido: Caio Castro Moreira
+Pedido com 8 itens.
+Itens de pedido no pedido:
+PRODUTO: Tesoura Cobre
+QUANTIDADE: 01
+PREÇO UNITÁRIO: R$ 7,71
+PRODUTO: Peso de papel Grena
+QUANTIDADE: 08
+PREÇO UNITÁRIO: R$ 9,42
+PRODUTO: Cartao de papel Laranja escuro
+QUANTIDADE: 07
+PREÇO UNITÁRIO: R$ 7,12
+PRODUTO: Envelope Azul topazio
+QUANTIDADE: 05
+PREÇO UNITÁRIO: R$ 2,90
+PRODUTO: Peso de papel Ciano
+QUANTIDADE: 09
+PREÇO UNITÁRIO: R$ 3,16
+PRODUTO: Clipe Linho
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 10,68
+PRODUTO: Peso de papel Rosa claro
+QUANTIDADE: 04
+PREÇO UNITÁRIO: R$ 4,51
+PRODUTO: Transferidor Violeta claro
+QUANTIDADE: 03
+PREÇO UNITÁRIO: R$ 9,94
+
+Pedido pago parcelado.
+Valor total do pedido: R$ 266,46
+
